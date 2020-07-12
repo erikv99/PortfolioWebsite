@@ -1,0 +1,17 @@
+css:
+contains all css files
+
+uploaded
+contains all uploaded images
+
+includes:
+contains all php files which are used in include(once) and require(once)
+
+js: 
+contains all javascript files
+
+php: 
+contains all php files
+
+php/ajax:
+contains php files that are ONLY used for ajax requests

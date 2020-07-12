@@ -1,0 +1,9 @@
+*.docx
+*.tmp
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.sublime-workspace
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
